@@ -1,1 +1,1 @@
-my name is bikash
+Repository for git KOSS workshop
